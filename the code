@@ -53,7 +53,7 @@ lbltitle.Active = true
 lbltitle.Draggable = false
 lbltitle.Selectable = true
 lbltitle.Font = Enum.Font.SourceSansBold
-lbltitle.Text = "A Simple Fuck(ing) GUI!!"
+lbltitle.Text = "A Simple Hump(ing) GUI!!"
 lbltitle.TextColor3 = Color3.new(0, 0, 0)
 lbltitle.TextSize = 20
  
@@ -72,7 +72,7 @@ btnSex.Active = true
 btnSex.Draggable = false
 btnSex.Selectable = true
 btnSex.Font = Enum.Font.SourceSansBold
-btnSex.Text = "Let's FUCK!!"
+btnSex.Text = "Let's Hump!!"
 btnSex.TextColor3 = Color3.new(0, 0, 0)
 btnSex.TextSize = 20
  
@@ -102,7 +102,7 @@ lblFUCKEMALL.Position = UDim2.new (0.025, 0,0.856, 0)
 lblFUCKEMALL.Size = UDim2.new (0, 301,0, 27)
 lblFUCKEMALL.Visible = true
 lblFUCKEMALL.Font = Enum.Font.SourceSansBold
-lblFUCKEMALL.Text = "FUCK AND FUCK"
+lblFUCKEMALL.Text = "Hump AND Hump"
 lblFUCKEMALL.TextColor3 = Color3.new(0, 0, 0)
 lblFUCKEMALL.TextSize = 20
  
