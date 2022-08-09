@@ -90,7 +90,7 @@ tbxVictim.Active = true
 tbxVictim.Draggable = false
 tbxVictim.Selectable = true
 tbxVictim.Font = Enum.Font.SourceSansBold
-tbxVictim.Text = "[NAME] (Press enter)"
+tbxVictim.Text = "[NAME] Press enter"
 tbxVictim.TextColor3 = Color3.new(0, 0, 0)
 tbxVictim.TextSize = 20
  
