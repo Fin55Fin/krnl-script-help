@@ -1,5 +1,4 @@
- 
---Variables
+ --Variables
  
  
 local SimpleSexGUI = Instance.new("ScreenGui")
